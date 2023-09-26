@@ -1,4 +1,4 @@
-# stalk-me
+# ProfileLocator
 This is a real time social media account finder application created with MEVN stack.
 -
 ### What techs did i use?
